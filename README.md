@@ -23,6 +23,9 @@ The additional 30 variables are pulled from several data sets in the "/labs/shah
 - "bl_history.sas7bdat": 17 co-morbidities at basline are extracted ["PVD","PTSD","RHEARTHRITIS","THYROIDDIS","ULCER","GOUT","HIPPROB","OSTEOARTHRITIS","BPH",
                                                                      "LOWBKPAIN","ATRIALFIB","LIVEWITHOTHERS","DEPRESS","ANXIETY","ANEMIA","ALCOHOL","CANCER"]
                       
+# Codebook
+The full codebook can be found <a href='https://github.com/CrystalXuR/READMEIntro/blob/main/codebook_expanded_baseline_vars.pdf'> here </a>
+
 # Missing Data
 
 The original "baseline.csv" data set has 6% of the rows with missing data. After the 30 more variables are added, the missing rate increased to 7.5%, meaning that we have complete data on all 63 columns for 92.5% of the rows/patients. 
