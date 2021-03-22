@@ -3,7 +3,7 @@
 - Date: 03/02/2021
 - Author: Yizhe (Crystal) Xu 
 - Purpose: I expanded the original "baseline.csv" with 30 more variables to conduct the analyses that are listed under the NHLBI R01 grant Aim 2 (SPRINT data)
--  
+
 # Details
 
 The original version of this data set is stroed at "/labs/shahlab/datasets/BioLINCC/SPRINT/datasets/SPRINT_2019a.zip/SPRINT-POP/data/baseline.csv". There are 30 columns in this original baseline data set. 
@@ -16,7 +16,7 @@ The additional 30 variables are pulled from several data sets in the "/labs/shah
 
    - "bl_meds_physexam.csv", "bl_medsphys4m.csv", and "incl_excl.csv". 
    - Eight medication (binary) variables are extracted, in which the mapping were done using the ATC index given by <a href='https://www.whocc.no/atc_ddd_index/'> WHOCC 
-   
+
 - "labs.sas7bdat": two lab variables are extracted ["RESULT_K", "RESULT_NA"]
 - "incl_excl.sas7bdat": one variable is extracted ["CORONARYREVAS"]
 - "bp_manage_base.sas7bdat": two variables are extracted ["DIZZY", "SEATHEART"]
