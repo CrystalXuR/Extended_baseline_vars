@@ -1,4 +1,4 @@
-# Documentation for "expanded_baseline_vars" Data Set
+# Documentation for the "expanded_baseline_vars.csv" Data Set
 
 - Date: 03/02/2021
 - Author: Yizhe (Crystal) Xu 
@@ -24,7 +24,7 @@ The additional 30 variables are pulled from several data sets in the "/labs/shah
                                                                      "LOWBKPAIN","ATRIALFIB","LIVEWITHOTHERS","DEPRESS","ANXIETY","ANEMIA","ALCOHOL","CANCER"]
                       
 # Codebook
-The full codebook can be found <a href='https://github.com/CrystalXuR/READMEIntro/blob/main/codebook_expanded_baseline_vars.pdf'> here </a>
+The full codebook for all 63 baseline variables can be found <a href='https://github.com/CrystalXuR/READMEIntro/blob/main/codebook_expanded_baseline_vars.pdf'> here </a>
 
 # Missing Data
 
