@@ -15,7 +15,7 @@ The additional 30 variables are pulled from several data sets in the "/labs/shah
 - "bl_meds_vars_summary": this is a summarized medication data set using the following 3 original data sets in the "/labs/shahlab/datasets/BioLINCC/SPRINT/datasets/SPRINT_2019a.zip/SPRINT/data/csv" folder:
 
    - "bl_meds_physexam.csv", "bl_medsphys4m.csv", and "incl_excl.csv". 
-   - Eight medication (binary) variables are extracted, in which the mapping were done using the ATC index given by <a href='https://www.whocc.no/atc_ddd_index/'> WHOCC 
+   - Eight medication (binary) variables are extracted, in which the mapping were done using the ATC index given by <a href='https://www.whocc.no/atc_ddd_index/'> WHOCC </a> 
 
 - "labs.sas7bdat": two lab variables are extracted ["RESULT_K", "RESULT_NA"]
 - "incl_excl.sas7bdat": one variable is extracted ["CORONARYREVAS"]
